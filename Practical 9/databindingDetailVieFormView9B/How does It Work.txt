@@ -1,0 +1,24 @@
+first Create SQL connection and create database and then table insert some record >.....................
+
+
+
+Step 1: first take GridView 
+Step 2: then take sql data Source 
+
+config SqldataSource:- Only Select ID >> next >> finish
+config GridView > add SqlDataSource1 > enable selection
+
+
+Step 3: take DetailView
+Step 4: take SqldataSource for that 
+
+config SqlDataSource :=  Select * >> Where > Id > control > GridView1 > add
+config DetalView > add SqlDataSource2
+
+
+Step 5: take fromView 
+
+confg SqlDataSource1 with FormView (Just attach no need selection and all) once attach referesh Schema    
+
+
+
