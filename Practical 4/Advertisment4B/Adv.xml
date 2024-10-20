@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Advertisements>
+	<Ad>
+
+		<ImageUrl>https://yt3.googleusercontent.com/viNp17XpEF-AwWwOZSj_TvgobO1CGmUUgcTtQoAG40YaYctYMoUqaRup0rTxxxfQvWw3MvhXesw=s900-c-k-c0x00ffffff-no-rj</ImageUrl>
+		<NavigateUrl> https://www.google.com/</NavigateUrl>
+		<AlternateText>Google</AlternateText>
+		<Impressions>20</Impressions>
+		<Keywords>google</Keywords>
+	</Ad>
+	
+	<Ad>
+
+		<ImageUrl>https://cdn2.downdetector.com/static/uploads/logo/gmail_logo_hSykdMC.jpeg</ImageUrl>
+		<NavigateUrl> https://mail.google.com/</NavigateUrl>
+		<AlternateText>gmail</AlternateText>
+		<Impressions>10</Impressions>
+		<Keywords>google</Keywords>
+	</Ad>
+	
+	<Ad>
+		<ImageUrl>https://play-lh.googleusercontent.com/7W0P3Cntpy3sVNRtCKe-cjuLMh47hZyR2YQOAZH-Qm6U7n0gYmCSR_vzqrEJq8zQdjU</ImageUrl>
+		<NavigateUrl> https://in.search.yahoo.com/</NavigateUrl>
+		<AlternateText>yahoo</AlternateText>
+		<Impressions>5</Impressions>
+		<Keywords>google</Keywords>
+	</Ad>
+	
+</Advertisements>
