@@ -1,0 +1,9 @@
+Step 1 : Crete Data base Connection and Create table and Structure
+
+Step 2 : Create a webForm1 ( Copy paste)
+
+Step 3: WebForm1.aspx.cs ( backend Code) 
+
+
+
+Step 4 : Once you insert or delete data you can go in your database and verify from there does data is deleted or not
