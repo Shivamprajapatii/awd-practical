@@ -1,0 +1,7 @@
+Step 1 :    first Create a SQL Database > Create Table > Insert Records
+
+
+Step 2 : Create a webForm1.aspx 
+         > Take DetailView ( this will provide pre CRUD like Button) 
+	 > take sql data Source ( Join it * all and go to advance Click Insert and DELETE and UPDATE)
+	 > Join it with grid View (Enable Paging Sorting Delete Insert as Per Question Requirement)

@@ -1,0 +1,10 @@
+so this practical is Talking about Disconnected Data Access and Databinding using GridView
+for that we have to write cs code to connect with SQL Server 
+
+
+we can not perform this operation using database.md file 
+
+
+step 1: take a webForm > inside that just take a GridView
+step 2: write the backend code for webForm.aspx.cs ( connection string nd all) that sit coding will target to 
+        my GridView and it will help me display data
