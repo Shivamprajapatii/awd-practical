@@ -1,0 +1,51 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="basicwebpageAutoPostBack3A.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                </asp:ContentPlaceHolder>
+ <asp:Table ID="Table1" runat="server">
+     <asp:TableRow>
+         <asp:TableCell>
+             <asp:TreeView ID="TreeView1" runat="server">
+                 <Nodes>
+
+                     <asp:TreeNode Text="SEM V"> 
+                         <asp:TreeNode Text="AWD" NavigateUrl="~/WebForm1.aspx"></asp:TreeNode>
+                         <asp:TreeNode Text="AI" NavigateUrl="~/WebForm2.aspx"></asp:TreeNode>
+                           <asp:TreeNode Text="IOT" NavigateUrl="~/WebForm3.aspx"></asp:TreeNode>
+                          <asp:TreeNode Text="ET" NavigateUrl="~/WebForm4.aspx"></asp:TreeNode>
+                     </asp:TreeNode>
+                     
+    
+                     <asp:TreeNode Text="BSCIT">
+                           <asp:TreeNode Text="FYIT" NavigateUrl="~/WebForm5.aspx"></asp:TreeNode>
+                           <asp:TreeNode Text="SYIT" NavigateUrl="~/WebForm6.aspx"></asp:TreeNode>
+                           <asp:TreeNode Text="TYIT" NavigateUrl="~/WebForm7.aspx"></asp:TreeNode>
+                    </asp:TreeNode>
+
+                 </Nodes>
+             </asp:TreeView>
+         </asp:TableCell>
+
+         <asp:TableCell>
+             <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+             </asp:ContentPlaceHolder>
+         </asp:TableCell>
+
+     </asp:TableRow>
+ </asp:Table>
+        </div>
+    </form>
+</body>
+</html>
