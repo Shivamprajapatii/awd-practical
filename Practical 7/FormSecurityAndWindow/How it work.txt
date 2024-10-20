@@ -1,0 +1,5 @@
+Once User Enter the Right details and Click on Login Button it will redirect to anther home page in my case webForm2
+
+
+
+web config defines which user will login what is your user name and your password

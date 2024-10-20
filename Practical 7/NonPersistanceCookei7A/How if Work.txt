@@ -1,0 +1,7 @@
+when user submit data from Form one it will redirect two another webFrom2 and if any one will try to access webFrom2 URL it will show the data in label 
+
+Step 1: take WebFrom1.aspx 
+Step 2: Webfrom1.aspx.cs ( write a cookie program that use will generate) 
+
+Step 3: take WebFrom2.aspx
+Step 4: access the data that user has submitted ( the data that user has submitted it will show here)  

@@ -1,0 +1,5 @@
+there are two types of Cookies 
+
+i) Persistance 
+ii) Non Persistance
+
